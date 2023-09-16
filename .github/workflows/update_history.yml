@@ -4,6 +4,11 @@ on:
     - cron: '30 */1 * * *'
   repository_dispatch:
     types: [update_history]
+  push:
+    branches: [main]
+    paths: 
+      - '.github/workflows/c.yml'
+      - '2-c.sh'
 jobs:
   update_history:
     runs-on: ubuntu-latest
