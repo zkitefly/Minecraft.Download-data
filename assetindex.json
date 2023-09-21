@@ -2,59 +2,59 @@
     "assetindex": [
         {
             "id": "8",
-            "sha1": "af4f111894194e6ce5cd257d37ba692e1dc1d97f",
+            "sha1": "682d40601076a696477736377a2ed4677722d6a2",
             "size": 414035,
-            "totalSize": 619485308,
-            "url": "https://piston-meta.mojang.com/v1/packages/af4f111894194e6ce5cd257d37ba692e1dc1d97f/8.json"
+            "totalSize": 619487335,
+            "url": "https://piston-meta.mojang.com/v1/packages/682d40601076a696477736377a2ed4677722d6a2/8.json"
         },
         {
             "id": "7",
-            "sha1": "f83427d27aa5878091ae7910e4386f30b3fa8af5",
+            "sha1": "0c63c4ab94849aedc7793361e919b989f3bb35b4",
             "size": 414035,
-            "totalSize": 619485308,
-            "url": "https://piston-meta.mojang.com/v1/packages/f83427d27aa5878091ae7910e4386f30b3fa8af5/7.json"
+            "totalSize": 619487335,
+            "url": "https://piston-meta.mojang.com/v1/packages/0c63c4ab94849aedc7793361e919b989f3bb35b4/7.json"
         },
         {
             "id": "6",
-            "sha1": "ef5697b477f19bd29843af5d05e32c5aeee1901b",
+            "sha1": "640cccf294f5c5b1a09077723ebb0461b9c82a49",
             "size": 411581,
-            "totalSize": 618957868,
-            "url": "https://piston-meta.mojang.com/v1/packages/ef5697b477f19bd29843af5d05e32c5aeee1901b/6.json"
+            "totalSize": 618959895,
+            "url": "https://piston-meta.mojang.com/v1/packages/640cccf294f5c5b1a09077723ebb0461b9c82a49/6.json"
         },
         {
             "id": "5",
-            "sha1": "244f3d082015565dcf139d92e7816cd839a6a6e3",
+            "sha1": "c25bce94cd70da8c60b540606ef405f7c2c72dcf",
             "size": 411581,
-            "totalSize": 618988709,
-            "url": "https://piston-meta.mojang.com/v1/packages/244f3d082015565dcf139d92e7816cd839a6a6e3/5.json"
+            "totalSize": 618990736,
+            "url": "https://piston-meta.mojang.com/v1/packages/c25bce94cd70da8c60b540606ef405f7c2c72dcf/5.json"
         },
         {
             "id": "4",
-            "sha1": "24eac0fd9dc3a69bc921b6bf792fa3af5ddbab78",
+            "sha1": "ae7ec57091907a3e237cadb1058d754fd853ca7d",
             "size": 410977,
-            "totalSize": 617413563,
-            "url": "https://piston-meta.mojang.com/v1/packages/24eac0fd9dc3a69bc921b6bf792fa3af5ddbab78/4.json"
+            "totalSize": 617415590,
+            "url": "https://piston-meta.mojang.com/v1/packages/ae7ec57091907a3e237cadb1058d754fd853ca7d/4.json"
         },
         {
             "id": "3",
-            "sha1": "a4a8d47f7d9eede1eb3d8eee8d32f7b5d5b7e10c",
+            "sha1": "b4ca3899c56fba501e947d30b4f1e66ccd1940c6",
             "size": 410193,
-            "totalSize": 562022308,
-            "url": "https://piston-meta.mojang.com/v1/packages/a4a8d47f7d9eede1eb3d8eee8d32f7b5d5b7e10c/3.json"
+            "totalSize": 562024335,
+            "url": "https://piston-meta.mojang.com/v1/packages/b4ca3899c56fba501e947d30b4f1e66ccd1940c6/3.json"
         },
         {
             "id": "2",
-            "sha1": "9dde6788c5f07f4a481a9c98269d80372d1074a7",
+            "sha1": "75798088a89e4c5effb4fec213e9ff4ed228316c",
             "size": 405968,
-            "totalSize": 561249215,
-            "url": "https://piston-meta.mojang.com/v1/packages/9dde6788c5f07f4a481a9c98269d80372d1074a7/2.json"
+            "totalSize": 561251242,
+            "url": "https://piston-meta.mojang.com/v1/packages/75798088a89e4c5effb4fec213e9ff4ed228316c/2.json"
         },
         {
             "id": "1",
-            "sha1": "2b371e379acd9da749b8a875bf729e07512fdfda",
+            "sha1": "f312ff6d2f9ed510b10ee28548ec7b5330289c88",
             "size": 391044,
-            "totalSize": 558089637,
-            "url": "https://piston-meta.mojang.com/v1/packages/2b371e379acd9da749b8a875bf729e07512fdfda/1.json"
+            "totalSize": 558091664,
+            "url": "https://piston-meta.mojang.com/v1/packages/f312ff6d2f9ed510b10ee28548ec7b5330289c88/1.json"
         },
         {
             "id": "1.19",
