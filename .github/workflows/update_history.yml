@@ -29,8 +29,8 @@ jobs:
 
       - name: 额外工作qwq
         run: |
-          curl https://rgp.zkitefly.repl.co/favicon.ico -o
-          curl https://gp.zkitefly.repl.co/favicon.ico -o
+          curl https://rgp.zkitefly.repl.co/favicon.ico -o favicon.ico
+          curl https://gp.zkitefly.repl.co/favicon.ico -o favicon.ico
           rm favicon.ico
         
       - name: Fetch assetIndex changes
