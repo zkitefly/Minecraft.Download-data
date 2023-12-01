@@ -31,6 +31,8 @@ jobs:
         run: |
           curl https://rgp.zkitefly.repl.co/favicon.ico -o favicon.ico
           curl https://gp.zkitefly.repl.co/favicon.ico -o favicon.ico
+          curl https://rgp--zkitefly.repl.co/favicon.ico -o favicon.ico
+          curl https://gp--zkitefly-.repl.co/favicon.ico -o favicon.ico
           rm favicon.ico
         
       - name: Fetch assetIndex changes
