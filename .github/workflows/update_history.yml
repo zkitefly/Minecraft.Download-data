@@ -27,14 +27,14 @@ jobs:
           python3 -m pip install --upgrade pip
           pip install requests
 
-      - name: 额外工作qwq
-        run: |
-          curl https://rgp.zkitefly.repl.co/favicon.ico -o favicon.ico
-          curl https://gp.zkitefly.repl.co/favicon.ico -o favicon.ico
-          curl https://rgp--zkitefly.repl.co/favicon.ico -o favicon.ico
-          curl https://gp--zkitefly-.repl.co/favicon.ico -o favicon.ico
-          curl https://gp.zkitefly1.repl.co/favicon.ico -o favicon.ico
-          rm favicon.ico
+      # - name: 额外工作qwq
+      #   run: |
+      #     curl https://rgp.zkitefly.repl.co/favicon.ico -o favicon.ico
+      #     curl https://gp.zkitefly.repl.co/favicon.ico -o favicon.ico
+      #     curl https://rgp--zkitefly.repl.co/favicon.ico -o favicon.ico
+      #     curl https://gp--zkitefly-.repl.co/favicon.ico -o favicon.ico
+      #     curl https://gp.zkitefly1.repl.co/favicon.ico -o favicon.ico
+      #     rm favicon.ico
         
       - name: Fetch assetIndex changes
         id: fetch_changes
